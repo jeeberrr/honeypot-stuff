@@ -1,2 +1,3 @@
 # honeypot-stuff
-Stuff like malware analysis reports on things I captured from my honeypot
+
+I am a honeypot operator. This is where I will host my malware analysis reports and other things related to my honeypot.
